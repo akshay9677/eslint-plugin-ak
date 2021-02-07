@@ -1,0 +1,12 @@
+.DS_Store
+.thumbs.db
+workflow.txt
+node_modules/
+dist/
+npm-debug.log*
+cordova/platforms
+cordova/plugins
+.idea/
+.env.development
+
+.eslintcache
